@@ -1,0 +1,10 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <option name="LAST_BUILD_CHECKED" value="IU-211.7142.45" />
+    <option name="LAST_TIME_CHECKED" value="1622079319469" />
+    <pluginHosts>
+      <item value="https://plugins.jetbrains.com/plugins/eap/org.jetbrains.kotlin" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+  </component>
+</application>
